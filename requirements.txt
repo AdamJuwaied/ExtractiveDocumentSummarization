@@ -1,1 +1,8 @@
+In order to run our Extractive Document Summarization model, the following things are required.
+
+Install Python, whichever is the latest version from Python 3.
+You can download the lastest version here: https://www.python.org/downloads/
+
+Next you must install numpy for our model, you can do this after installing the latest version of Python.
+Step by Step instructions can be followed from the NumPy website here: https://numpy.org/install/
 
