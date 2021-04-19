@@ -11,4 +11,3 @@ Thank you! Enjoy the program!
 
 
 
-All things were a blessing from God!
