@@ -6,3 +6,7 @@ You can download the lastest version here: https://www.python.org/downloads/
 Next you must install numpy for our model, you can do this after installing the latest version of Python.
 Step by Step instructions can be followed from the NumPy website here: https://numpy.org/install/
 
+You are able to use any IDE that uses Pyton such as Anaconada, which you can download here: https://www.anaconda.com/
+Select what type of product you want, or if you already have another IDE installed that uses Python you may skip this step. 
+
+
