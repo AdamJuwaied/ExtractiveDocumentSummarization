@@ -19,7 +19,7 @@ pip install PorterStemmer
 Download the text and abstract folder from the SUMPUBMED Dataset that is accessible here: https://github.com/vgupta123/sumpubmed
 
 Be sure that when you open the DocumentSummarization.ipynb file, after all the definitions have been made, there is a code line 
-that says "dir = "C:/'EnterYourDirectoryHere'/text/" (If you are using Windows) for the text files. You need to be sure that the files are accissible to the 
+that says "dir = "C:/'EnterYourDirectoryHere'/text/" (If you are using Windows) for the text files. You need to be sure that the files are accessible to the 
 program otherwise it will not be able to load the text or abstract files. 
 
 If you are using any other kind of Operating System, please be sure to allow our model to have access to the text files.
