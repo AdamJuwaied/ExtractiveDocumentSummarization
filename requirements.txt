@@ -8,11 +8,13 @@ Step by Step instructions can be followed from the NumPy website here: https://n
 
 You are able to use any IDE that uses Python such as Anaconada, which you can download here: https://www.anaconda.com/
 Select what type of product you want, or if you already have another IDE installed that uses Python, you may skip this step. 
+
 Install the following libraries:
 pip install nltk
 pip install networkx
 pip install rouge 
 pip install matplotlib
 pip install PorterStemmer
+
 Once you have a valid IDE to use, download the text and abstract folder from the SUMPUBMED Dataset that is accessible here: https://github.com/vgupta123/sumpubmed
 
